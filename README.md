@@ -7,6 +7,13 @@ https://github.com/tuvttran/project-based-learning
 ### Frontend handbook 2017
 https://frontendmasters.com/books/front-end-handbook/2017/
 
+### React
+- [Some tips for getting started with React](https://medium.com/dailyjs/some-tips-for-getting-started-with-react-55bfc1f9f682) (DailyJS)
+- [Collection of reactjs components to quickly build landing pages](https://github.com/dennybritz/neal-react)
+
+### Functional programming
+- [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) (Bartosz Milewski's Programming Cafe)
+
 ### Website performance
 - [14 Important Website Performance Metrics You Should Be Analyzing](https://www.keycdn.com/blog/website-performance-metrics/) (KeyCDN blog) 
 - [Front End Performance Checklist 2017](https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/) (Smashing Magazine)
