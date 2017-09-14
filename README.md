@@ -11,6 +11,7 @@ https://frontendmasters.com/books/front-end-handbook/2017/
 - [Some tips for getting started with React](https://medium.com/dailyjs/some-tips-for-getting-started-with-react-55bfc1f9f682) (DailyJS)
 - [Collection of reactjs components to quickly build landing pages](https://github.com/dennybritz/neal-react)
 - [Organizing Large React Applications](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) (Kapost Engineering)
+- [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) (Dan Abramov)
 
 ### Functional programming
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) (Bartosz Milewski's Programming Cafe)
