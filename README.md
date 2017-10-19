@@ -13,6 +13,9 @@ https://frontendmasters.com/books/front-end-handbook/2017/
 - [Organizing Large React Applications](http://engineering.kapost.com/2016/01/organizing-large-react-applications/) (Kapost Engineering)
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) (Dan Abramov)
 
+### REST
+- [Designing a RESTful web API](https://scotch.io/bar-talk/designing-a-restful-web-api) (Mathias Hansen)
+
 ### GraphQL
 - [Graphcool](https://www.graph.cool/)
 - [GraphCMS](https://graphcms.com/)
